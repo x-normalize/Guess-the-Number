@@ -2,6 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/94692820/192144957-208495d3-ff3c-423b-b2d3-e7fce1452308.png)
 
+# LIVE DEMO 
+
+## You can play the game directly from your Web Browser here: <a href="https://replit.com/@x-normalize/GuessaNumber#main.py">Play<a/> just click RUN example two times to start the game
+
+![2022-09-25 18_35_52-Guess_a_Number - Python Repl - Replit - Brave](https://user-images.githubusercontent.com/94692820/192152392-f7b61884-7dd1-474d-b5a2-3b796d6b22d5.png)
+  
+![2022-09-25 18_35_52-Guess_a_Number - Python Repl - Replit - Brave](https://user-images.githubusercontent.com/94692820/192152555-ff5327af-253c-481d-b49d-b97c312c7f07.png)
+
+![2022-09-25 18_47_238-Guess_a_Number - Python Repl - Replit - Brave](https://user-images.githubusercontent.com/94692820/192152558-b4a84f48-1829-4799-88ab-815f62c9dd95.png)
+
+
 This is a classic guessing game that challenges your basic mathematical logic comprehension. Simply guess the number within a few tries to win. Compare the your previous guesses to the unknown number to narrow down your list of candidate numbers.
 
 Algorithm: Below are the Steps:
