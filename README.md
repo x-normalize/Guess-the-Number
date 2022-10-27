@@ -4,7 +4,7 @@
 
 # LIVE DEMO 
 
-## You can play the game directly from your Web Browser here: <a href="https://replit.com/@x-normalize/GuessaNumber#main.py">Play<a/> just click RUN example two times to start the game.
+## You can play the game directly from your Web Browser here <a href="https://replit.com/@x-normalize/GuessaNumber#main.py">Play<a/> just click RUN example two times to start the game.
 
 ![2022-09-25 18_35_52-Guess_a_Number - Python Repl - Replit - Brave](https://user-images.githubusercontent.com/94692820/192152392-f7b61884-7dd1-474d-b5a2-3b796d6b22d5.png)
   
